@@ -1,0 +1,21 @@
+# Large downloaded data (AACT snapshots, FAERS files): never committed
+data/raw/
+*.zip
+*.dmp
+
+# Secrets: database passwords live in .env on your own machine only
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
