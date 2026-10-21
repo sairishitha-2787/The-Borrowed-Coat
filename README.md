@@ -6,9 +6,6 @@ In Isaac Bashevis Singer's story, Yentl puts on a man's coat to get into the roo
 
 This series measures where that is still true, and where it is changing.
 
-## Why I'm building this
-
-[2–3 sentences in my own words]
 
 ## The parts
 
