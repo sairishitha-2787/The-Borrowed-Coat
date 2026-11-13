@@ -1,0 +1,17 @@
+[project]
+name = "the-borrowed-coat"
+version = "0.1.0"
+description = "A data series on women's health evidence, starting with how often clinical trials report results by sex."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "psycopg[binary]>=3.2",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
